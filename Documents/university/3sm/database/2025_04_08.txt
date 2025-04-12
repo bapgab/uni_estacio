@@ -1,0 +1,22 @@
+Modelagem lógica 
+  
+  a)Quais são as entidades envolvidas no modelo?
+    Ficha médica, Paciente, Consulta, Exame
+  b)Escreva os atributos de cada entidade 
+    Ficha médica: Cód. Pacientem Consultas, Número consulta, Exames, Número exames
+    Paciente: Nome, Data entrada, Data saída
+    Consulta: CPF paciente, médico, diagnóstico
+    Exame: Convênio, Diagnóstico, Laboratório 
+  c)Quais seriam as chaves primárias envolvidas no processo de modelamento?
+    Ficha: Cód. Paciente
+    Paciente: CPF
+    Consulta: CPF
+    Exame: Laboratório
+  d)Indique os tipos de relacionamento existentes no modelo conceitual
+    Ficha 1, 1 Paciente
+    Paciente 1, 1 Consulta
+    Consulta 1, N Laboratório
+  e)Indique as cardinalidades envolvidas no processo de modelamento conceitual
+    Ficha 1, 1 Paciente
+    Paciente 1, 1 Consulta
+    Consulta 1, N Laboratório

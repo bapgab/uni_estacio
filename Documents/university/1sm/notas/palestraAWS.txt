@@ -1,0 +1,94 @@
+Discovery day
+	computação na nuvem 
+	
+	O que é nuvem?
+		Datacenteres da AWS (comercialização da infraestrutura)
+			Conjunto de servidores
+				Constante expansão
+	Modelo on-premises (local) 
+		Recursos em instalações da organização, exigindo infraestrutura própria
+			Pode ocorrer ociosidade ou falta de recurso
+				As despesas (fixas) são chamadas de Capex
+	Modelo cloud
+		Recursos fornecidas pela internet, não há demanda de hardware
+			As despesas (que são variáveis) são chamadas de Opex
+			Escalabilidade flexiva 
+				Pagamento sob demanda
+	Categorias do serviço da AWS
+		Computação, redes e entrega de conteúdo, armazenamento, banco de dados, segurança, identidade, conformidade, gerenciamento e governança
+	Modelos de implantação
+		nuvem, modelo híbrido e on-premises
+	Zonas de disponibilidade
+		Partes isoladas da infraestrutura da AWS
+			As zonas de disponibilidade são interconectadas e oferecem redundância
+	Pontos de presença 
+		Locais de presença e servidores de cache de borda regionais
+			Conteúdo por meio de uma rede mundial de locais de pontos de presença
+				Baixa latência e alta velocidade de transferência
+	
+	Módulo 2
+	Computação
+		Elastic computer cloud (Amazon EC2) <> Amazon EC2 autoescaling
+			Se adaptam conforme a demanda de servidores
+		Elastic load balance
+			Organiza as solicitações que chegam em vários servidores
+				Distribui automaticamente o tráfego
+					Distribui automáticamente as regiões
+	|É comum ver aplicações usando os 3 juntos
+		Container service (Amazon ECS)
+			serviço que orquestra contêiners na instância dimensionáveis e de alto desempenho
+		Aws lambda (servless)
+			Serviço de computador sem servidor
+				Serviço programado para executar somente o que é necessário 
+					(Execução de código)
+						Pago apenas o tempo de computação
+		Casos de uso
+			Computação de alto desempeho
+			Big data e análises
+			Bare metal
+			Armazenamento associado
+			Redes avançadas
+	Amazon EC2
+		Instâncias on-demand
+			Servidores prontos para serem usados (sem reserva)
+		Instâncias spot
+			Servidores que usa a capacidade ociosa, é posível uma súbita interrupção
+		Instâncias reservadas
+			Servidores reservados, com o uso comprometido
+	EC2 autoescaling
+		Escaling dinâmico
+			Quando as solicitações estiverem grandes para um servidor, o autoescaling compensa com mais servidores para balancear
+		Escaling preditivo
+			Usa machine learning para prever quando as solicitações serão maiores, e ajusta conforme a possível necessidade
+	|Servidores == instâncias AWS
+		Grupo de autoscaling
+			Define um mínimo e um máximo para a quantidade de servidores (gerenciado pelo autoescaling)
+	Armazenamento
+		Amazon simple storage service (Amazon S3)
+			QUalquer tipo de objeto
+				Buckets (qualquer quantidade de informações de objetos)
+					Classes de armazenamento
+		Amazon elastic block store (Amazon EBS)
+			Armazenamento em bloco
+				Mesma zona de disponibilidade que o servidor
+				SSD de uso geral
+				SSD de IOPS provisionado 
+				Disco rígido com taxa de transferência otimizada
+				HDD de baixa atividade (frio)
+			
+		Amazon elastic file system (amazon EFS)
+			Sistema de arquivos simples, dimensionável e totalmente gerenciado pela AWS
+				Baseado em servidores linux
+	Serviços de banco de dados
+		Amazon relational database service (Amazon RDS)
+			Gerenciado pela AWS 
+				Multi-AZ
+		Amazon DynamoDB
+			Baseado em chave NoSLQ
+				Sem servidores para serem gerenciados
+					Casos de uso: Aplicativos web sem servidor, jogos, IoT e lojas
+		AWS database migration service (DMS)
+			Migração de banco de dados para a AWS com facilidade
+				Migração para os bancos de dados mais usados
+					Operação dos bancos de dados de origem durante a operação
+	

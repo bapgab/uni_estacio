@@ -1,0 +1,22 @@
+2025_02_27
+
+notas da aula
+    Mais APIs = - segurança
+    Data leak - segurança de dados
+        Pipeline (separação de processos)
+        *Imagem: transformar em binário para guardar no servidor
+    Modelo OSI
+        1° Camada:
+            Hub
+                Estrutura física binária (nível físico, 0 ou 1)
+    Dados sensíveis: Nome, cpf, endereço. Dados Extremamente sensíveis;
+
+
+
+
+
+
+
+
+
+*Kaggle
