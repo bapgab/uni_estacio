@@ -1,0 +1,20 @@
+		Ataque cibernético ao hospital de cancer de Barretos
+	O ataque ocorreu dia 27/01/2017 e afetou o hospital de cancêr de barretos e outras unidades do interior de São Paulo. A unidade de porto velho também teve máquinas afetadas.
+	De acordo com o supervisor de TI da unidade de Jales, os computadores tiveram seus dados criptografados e tinham uma mensagem pedindo resgate de 300 dólares em bitcoin.
+	Cerca de três mil consultas e exames foram suspensos, o hospital estimou normalizar os atendimentos em 5 dias em todo o país. O departamento de informática estima que mil máquinas foram afetadas em toda a rede e estimaram que levaria três dias para reverter o ataque cibernético.
+	Em nota divulgada no dia seguinte, o hospital afirmou que, apesar do bloqueio do sistema, nenhum dado foi afetado e nenhum exame será necessário ser repetido. 
+	Por outro lado, pacientes de radioterapia não tiveram tratamentos realizados. Outros serviços de imagem como tomografias, ultrassom e raios-x apresentaram restrições (sendo realizados apenas em casos de emergência).
+	350 pacientes deixaram de realizar tratamentos de radioterapia no dia do ataque. 
+	O ataque foi de escala mundial e um conselheiro ucraniano disse que as interrupções foram causadas pelo cryptolocker, um vírus de resgate como o Wannacry, que bloqueou mais de 200 mil computadores em mais de 150 países em maio. Segundo a empresa de cybersegurança Symantec, o outro vírus responsável pelo ataque desta terça feira é o Petya. 
+	O valor exigido para a liberação dos dados não foi pago.
+	
+	
+	Ransomware: é um tipo de malware (software malicioso) ultilizado por cibercriminosos para bloquear o sistema iu criptografar os dados. Geralmente, os cibercriminosos exigem resgate em troca da liberação dos dados.
+	Uma das portas de entradas para ransowares são sistemas operacionais antigos. Nessas instituições, é comum softwares de diagnóstico por imagem, por exemplo, acabam sendo acionados por sistemas como Windows XP ou Vista. Para os quais, não há mais atualizações, deixando-os suscetíveis a pragas digitais.
+	Cuidados possíveis: Backups diários, não permitir acesso a dispositivos externos, senha na BIOS, não permitir acesso a rede ou uma rede isolada para dispositivos com dados sensíveis.
+	
+	
+	//Se os dados foram criptografados, eles podem ter sido adulterados?
+	//Quais consequências poderiam ocorrer com a alteração desses daods?
+	//O caso de 2024, poderia ter sido evitado?
+	

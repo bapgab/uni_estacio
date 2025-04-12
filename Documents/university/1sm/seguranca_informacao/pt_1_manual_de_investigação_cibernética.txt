@@ -1,0 +1,99 @@
+			Estudo do livro investigação cibernética
+		8. procedimentos a serem adotados por vítimas ou seus representantes.
+	
+	Adição de medidas preliminares 
+		Auxilia na individualização da autoria e da materealidade delitivas
+			Vítima: verificar se é necessária exclusão imediata
+			Verificar se é ou não uma infração penal.
+			Local adequado para a operação requisitada.
+			(livro traz o exemplo de deletar as redes sociais de um falecido ente em uma delegacia, porém, isso não pode ser realizado naquele local. Mas talvez possa ser resolvido por um representante legal da vítima.)
+			
+			
+		8.1 delegacias especalizadas
+		
+	Lei n°12.735/2012
+		Artigo 4
+			Estruturação obrigatória de esquipes e setores especializados em crimes cibernéticos
+				*é possivél não obter atendimento adequado
+				Alguns estados possuem núcleos especializados
+				
+				
+		8.2 denúncias on-line
+		
+	Canais para denúncia
+		possibilita para a vítima (ou terceiros) fácil acesso para orientações e como proceder
+*resumo de 8.2.1 à 8.2.10
+	Sala de atendimento ao cidadão do ministério público federal
+		Portal para denúncia do cidadão (irregularidades, encaminhar representações)
+			Triagem (organização dos dados apresentados e classificação)
+				Encaminhamento para o devido setor
+				<http://cidadao.mpf.mp.br/> - link externo
+	Polícia federal
+		Denúncia 
+			atende casos de pornografia infantil, genocídio, crimes de ódio e tráfico humano
+				Crimes praticados em páginas
+					Em outros casos, denúncia pelo disk 100 (ou delegacia)
+				<http://denuncia.pf.gov.br/> - link externo
+	Polícia estadual
+		Em alguns estados, é possível fazer essas denúncias pela internet
+	Humaniza redes
+		Pacto coordenado pela secretaria de direitos humanos (com outras secretarías e ministérios)
+		Denúncias direcionadas à ouvidoria nacional dos direitos humanos
+			Analisa crimes de:
+				Homofobia 
+				Xenofobia
+				Intolerância religiosa
+				pornografia infatil
+				Racismo 
+				Apologia e incitação a crimes contra a vida
+				Neonazismo
+				Tráfico de pessoas
+				Violência e discriminação contra as mulheres
+				<http://www.humanizaredes.gov.br/> - link externo
+	SaferNet
+		A página permite fazer denúncias dos mesmos tópicos citados acima de forma anônima, sendo possível acompanhar o andamento da denúncia. Caso haja procedência, mais dados são coletados para comprovar os conteúdos ilícitos e enviados a polícia federal ou o ministério público federal (caso o conteúdo esteja hospedado no Brasil).
+			<http://new.safernet.org.br/denuncie#mobile> - linx externo
+***NOTA: A SaferNet oferece um serviço gratuito de escuta, acolhimento e orientação especializada, com equipe de psicólogos disponível
+					<www.canaldeajuda.org.br.> - link externo
+	NCMRC
+		O NCMEX, national center for missing & exploited children (centro nacional para crianças desaparecidas e exploradas) é uma organização internacional sem fins lucrativos. 
+			Auxilia na recuperação de crianças desaparecidas
+				Amber alert
+					Possibilita a difusão de fotografias de crianças desaparecidas
+						Divulgação através de rádio, internet e TV
+							Facebool e twitter encaminham os conteúdos relacionados com exploração sexual infantil para lá
+	INHOPE
+		Rede de denúncias para aliciamento de menores, xenofobia e pornografia infantil
+			Possui sistema para receber denúncias em 45 países
+				Denúncias para conteúdos no Brasil são encaminhadas para safer net
+				<http://www.inhope.org/> - link externo
+	IC3
+		Parceria do FBI r o NW3C
+			Denúncias on-line
+				Para fornecer a denúncia, é necessário apresentar dados e informações sobre as ocorrências
+				<http://www.ic3.gov/default.aspx>  - link externo
+	Google 
+		Permite a denúncia para atividade ilegal de spam, produtos falsificados, distribuição de malwares e qualquer outro que abuse dos sistemas da empresa
+			Para conta de email, os problemas comiuns são:
+				Envio de mensagens suspeitas pelo seu endereço de email
+				Contatos e emails desaparecem
+				AVisos de atividades suspeitas
+						Caso não consiga acessar a conta, é recomendado preencher o formulário de recuperação de conta
+	b) Para envio de mensagens indevidas
+		mensagem de spam enviadas do seu email para terceiros pode ser causada por:
+			falsificação do endereço do usuário como remetente
+			falsificação por programa malicioso
+				acesso aos últimos envios para verificar se a conta foi usada indevidamente
+					essas mensagens devem ser denúnciadas por formulário (com as informações do email de SPAM)
+						Pode ocorrer o recebimento de devolução de mensagens não enviadas, como "spamming de dicionario"
+							Recomenda-se envio para a Federal Trade Comission (spam@uce.gov)
+	c) Denuncar phishing
+		*Phishing é um tipo de cyberataque que persuade o usuário a fazer algo quer dê acesso a informações pessoais, ao dispositivo ou contas
+		É possível denunciar mensagens que solicitem informações pessoais 
+			Para isso, preenchimento de formulário online
+	UOL
+		Pataforma de denúncias
+			Possivél colocar o email para contato
+				Necessário inserir o URL do conteúdo violador, necessário descrição e é opicional o anexo de coisas que possam robustecer a denúncia
+	
+		

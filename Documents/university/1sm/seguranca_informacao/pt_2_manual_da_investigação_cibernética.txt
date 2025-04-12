@@ -1,0 +1,77 @@
+	Políticas de privacidade
+		Normalmente, em links na parte de baixo da página, há o documento que emitido pelo provedor de conexão e/ou aplicação sobre a coleta e o gerenciamento de dados. 
+			Quando há uma alteração, é necessário avisar o usuário
+				Fair Credit Reporting Act (FCRA) - lei federal americana
+					26 de outubro de 1970
+						Trata da privacidade do usuário 
+				Diretrizes do OECD
+					*Organização para a cooperação e desenvolvimento econômico
+					1968
+						Para o setor públco e privado 
+							Levou o  conselho da europa a elaborar a convençãp 108 - convenção para proteção das pessoas relativamente ao tratamento automatizado de dados pessoais
+								Conceito de dados pessoais
+									Dados especiais
+									*Origem racial, sexualidade, opinião política, creças religiosas etc. Dados que não devem ser repassados a terceiros. O conceito foi incorporado a privacidade de provedores de internet, só permitindo o compartilhmento com a autorização do usuário.
+	*De 8.1.3 até 8.1.
+	Políticas de privacidade no Marco Civil da Internet
+		O marco cívil trata sobre a garantia dos usuários em um de seus capítulos e nele, assegura:
+			Não fornecimento de dados pessoais a terceiros, salvo mediante consetimento livre, expresso e informado
+				É necessário que as informações estejam claras e completas sobre o uso
+					Essas informações devem ser usadas para finalidades que justifiquem o uso
+				Consentimento expresso sobre coleta, uso e armazenagemento
+					A opção tem q ser destacada das demais cláusulas contratuais 
+		As politicas do provedor tem que ser adequadas ao Marco Civil e legislação pátria
+			Disponibilizar a política oferece maior segurança, tranparência e confiança ao provedor
+		A política não deve ser confundida com a proteção de privacidade, pois a última depende não só da empresa, mas também do usuário
+			Uma recomendação aos provedores é deixar explícito o uso das informações, avisando a venda de dados como lucros para a empresa, por exemplo
+	De 8.3.1.1 até 8.3.1.3
+	Facebook
+		Para os dados coletados, a emoresa afirma que o intuito é a melhor navegação e conteúdos personalizados ao usuário
+			Conteúdos que oferem risco de lesões físicas ou ameaças diretas à segurança pública são removidos da plataforma
+			A polícia pode solicitar a remoção de conteúdos de violência e ameaças
+				O criminoso sexual, com condenação, não pode usar a plataforma, nesse caso, pode-se preencher um formulário on-line com documentos que comprovem a condenação para a exclusão do perfil
+			Conteúdos passiveis de denúncia:
+				Automultilação
+				Bullyng
+				Assédio
+				Discurso de ódio 
+				Nudez
+					Para casos de conteúdo que envolvam crianças e adolescentes, deve-se fazer uma notificação imediata 
+						Para terceiros, compartilhar, publicar ou baixar tem a pena de cometimento de crime prevista no ECA - Estatuto da Criança e do Adolescente 
+				Identidade e privacidade
+				Propriedade intelectual
+				Produtos controlados
+					Não é permitido a venda de prutos que sejam controlados, como álcool
+			No caso de falecimento do usuário, os parentes podem solicitar a exclusão da conta ou a transformação em memorial (para tal, precisa da comprovação do óbito)
+	Twitter
+		Afirma ser regra não divulgar informações pessoais
+		A plataforma possibilita denúncia por formulário, contendo o link do tweet e descrição. Dependendo do conteúdo, a plataforma pode remover diretamente (sem ordem judicial)
+		No caso de falecimento, além da possibilidade de deletar a conta quando comprovado o óbito e o parentesco do requisitante, é possível remover fotos e vídeos de pessoas falecidas pelo email privacy@twitter.com
+		O twitter oferece as seguintes opções para denúncia:
+		a) perfil falso
+			Para isso, deve haver a solicitação e será enviado um e-mail, onde o usuário deve informar que a conta não é sua e que não deseja aquele e-mail vinculado a nenhuma conta
+		b) problemas com marca registrada 
+			Em caso de titular de marca registrada e/ou representante autorizado OU denúncia de uso indevido da marca registrada por terceiros
+		c) produtos falsificados
+		d) direitos autorais
+		e) comportamento abusivo ou ofensivo 
+***NOTA: "O que você está denunciando: ✓ Conteúdo ofensivo,
+desrespeitoso ou em ***desacordo com minha opinião.***"
+		f) privacidade
+		g) informações privadas expostas ]
+		h) spam
+		i) reportar automultilação
+		j) denunciar um anúncio
+	Google
+		A política de privacidade indica quais informações são coletadas, o motivo da coleta e como serão utilizadas
+			A empresa afirma que coleta informações a partir de dados oferecidos pelos usuários ou quando acessa serviços relacionados ao provedor
+				Uma das formas de coleta de informações é deita através de cookies e identificadores anônimos, visando obter informações dos usuários
+					Caso não concorde com a política de cookies, o navegor será ajustado para não coleta-los, entretanto, alguns serviços podem não funcionar
+					Quando coletados, são armazenados com o argumento ed aperfeiçoamento e proteção dos serviços fornecidos
+						A empresa deixa explícita na política ao permitir o compartilhamento do conteúdo com terceiros, exceto dados especiais
+			Em caso de falecimento, é possível o encerramento da conta, solicitação de fundos, recebimento de dados, invasão da conta
+				O usuário pode gerenciar os dados e escolher o que vai ocorrer equem deve ter acesso a conta, caso haja determinado período de inatividade
+					Para deletar a conta do falecido, é necessário preencher o formulário com e-mail para contato, documentação e as informações relacionadas aos falecidos
+	Youtube
+		Faz parte do mesmo grupo econômico da Google, portanto, a política de privacidade é a mesma
+			
