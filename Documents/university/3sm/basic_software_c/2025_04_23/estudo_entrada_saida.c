@@ -4,7 +4,6 @@
 //getch (oculta o que o user digita),  
 #include <stdlib.h>
 
-/*
 // *** PRIMEIRO EX ***
 
 int main(int argc, char *argv[]){
@@ -24,14 +23,7 @@ int main(int argc, char *argv[]){
 
   return EXIT_SUCCESS;
 }
-*/
+
 
 // *** SEGUNDO EX ***
 
-int main(int argc, char *argv[]){
-
-
-
-
-  return EXIT_SUCCESS;
-}
