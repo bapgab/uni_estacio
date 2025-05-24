@@ -12,5 +12,5 @@ all: $(OBJS)
 	@rm ./src/*.o
 	@./$(TARGET)
 
-main.o: main.c
-	$(CC) -c $(CCFLAGS) main.c -o main.o
+main.o: diogo1.c
+	$(CC) -c $(CCFLAGS) diogo1.c -o main.o
