@@ -1,0 +1,55 @@
+	Modelo TCP/IPa
+	Camada da internet
+	IP
+		IP spoofing attack
+			Atacante falsifica o endereço IP de um dos pacotes de origem, fazendo com que os pacoter foram enviados de uma fonte confiável
+		HTTP flooding
+			Tipo de ataque DDoS, o hacker sobrecarrega um site com solicitações
+		Password brute-force attempts
+			Ataques de força bruta, que tentam advinhar a senha a força, tentativa e erro
+		Web scraping/data harvesting by competitors
+			Extração automatizada de dados de um site 
+		Click jacking
+			Tecnica para fazer o usuário clicar em algo diferente do que ele pensa/mostra.
+	APR
+		Connect hijacking and interception 
+			Sequestro e interceptação de conexões
+		Connection reseating
+			Interrupção de uma conexão TCP existente
+		Packet sniff (sniffer)
+			Captura de dados em uma rede
+		Denial of service
+			Negação de serviço
+	IGMP
+		Distributed denial of service (DDoS)
+			Negação de serviço distribuída
+			
+	ICMP
+		ICMP tunnelling
+			Usa pacotes ICMP para encapsular outros tipos de dados, disfarçar
+		Smurf attack
+			Usa mensagens ICMP para sobrecarregar uma rede 
+		Fraggle attack
+			Usam UDP no lugar de ICMP
+			
+		Como evitar os ataques
+			Firewall
+				IP spoofing
+				Web scraping
+			HTTPS 
+				IP spoofing
+			Capcha
+				HTTP flooding
+				Brute force attempts
+			WAFs
+				Brute force attempts
+				DoS
+				DDoS
+			Site
+				Clickjacking
+			VPN
+				Connect hijacking
+				reseating
+				sniffer
+			Smurf attack & fraggle attack
+				Não tem uma medida pronta que funcione para as outras coisas, a melhor solução é monitorar a rede caso haja tráfego suspeito e elaborar o que fazer para conter essa movimentação
