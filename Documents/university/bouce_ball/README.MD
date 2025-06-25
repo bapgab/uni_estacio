@@ -1,0 +1,1 @@
+Este projeto foi originalmente idealizado para a matéria "programação de software básico em C" porém, devido a complexidade, foi criado outro projeto no lugar que atualmente se encontra em https://github.com/zzDIO04/Project1
